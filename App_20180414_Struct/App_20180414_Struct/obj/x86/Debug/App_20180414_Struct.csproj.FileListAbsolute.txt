@@ -1,0 +1,6 @@
+C:\Users\alumnos09\AppData\Local\Temporary Projects\App_20180414_Struct\bin\Debug\App_20180414_Struct.exe
+C:\Users\alumnos09\AppData\Local\Temporary Projects\App_20180414_Struct\bin\Debug\App_20180414_Struct.pdb
+C:\Users\alumnos09\AppData\Local\Temporary Projects\App_20180414_Struct\obj\x86\Debug\App_20180414_Struct.exe
+C:\Users\alumnos09\AppData\Local\Temporary Projects\App_20180414_Struct\obj\x86\Debug\App_20180414_Struct.pdb
+E:\Codigos\App_20180414_Struct\App_20180414_Struct\obj\x86\Debug\App_20180414_Struct.exe
+E:\Codigos\App_20180414_Struct\App_20180414_Struct\obj\x86\Debug\App_20180414_Struct.pdb

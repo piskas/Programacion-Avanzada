@@ -1,0 +1,4 @@
+E:\Codigos\App_20180414_Clases\App_20180414_Clases\bin\Debug\App_20180414_Clases.exe
+E:\Codigos\App_20180414_Clases\App_20180414_Clases\bin\Debug\App_20180414_Clases.pdb
+E:\Codigos\App_20180414_Clases\App_20180414_Clases\obj\x86\Debug\App_20180414_Clases.exe
+E:\Codigos\App_20180414_Clases\App_20180414_Clases\obj\x86\Debug\App_20180414_Clases.pdb
