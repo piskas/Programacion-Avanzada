@@ -1,0 +1,4 @@
+E:\Inacap\Programacion Avanzada\Codigos\App_20180421_Conexion\App_20180421_Conexion\bin\Debug\App_20180421_Conexion.exe
+E:\Inacap\Programacion Avanzada\Codigos\App_20180421_Conexion\App_20180421_Conexion\bin\Debug\App_20180421_Conexion.pdb
+E:\Inacap\Programacion Avanzada\Codigos\App_20180421_Conexion\App_20180421_Conexion\obj\x86\Debug\App_20180421_Conexion.exe
+E:\Inacap\Programacion Avanzada\Codigos\App_20180421_Conexion\App_20180421_Conexion\obj\x86\Debug\App_20180421_Conexion.pdb

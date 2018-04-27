@@ -1,0 +1,4 @@
+E:\Inacap\Programacion Avanzada\Codigos\App_20180421_InsertarDB\App_20180421_InsertarDB\bin\Debug\App_20180421_InsertarDB.exe
+E:\Inacap\Programacion Avanzada\Codigos\App_20180421_InsertarDB\App_20180421_InsertarDB\bin\Debug\App_20180421_InsertarDB.pdb
+E:\Inacap\Programacion Avanzada\Codigos\App_20180421_InsertarDB\App_20180421_InsertarDB\obj\x86\Debug\App_20180421_InsertarDB.exe
+E:\Inacap\Programacion Avanzada\Codigos\App_20180421_InsertarDB\App_20180421_InsertarDB\obj\x86\Debug\App_20180421_InsertarDB.pdb
