@@ -1,0 +1,4 @@
+C:\Users\alumnos09\AppData\Local\Temporary Projects\App_20180407_Arreglos\bin\Debug\App_20180407_Arreglos.exe
+C:\Users\alumnos09\AppData\Local\Temporary Projects\App_20180407_Arreglos\bin\Debug\App_20180407_Arreglos.pdb
+C:\Users\alumnos09\AppData\Local\Temporary Projects\App_20180407_Arreglos\obj\x86\Debug\App_20180407_Arreglos.exe
+C:\Users\alumnos09\AppData\Local\Temporary Projects\App_20180407_Arreglos\obj\x86\Debug\App_20180407_Arreglos.pdb
